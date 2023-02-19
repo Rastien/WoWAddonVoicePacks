@@ -1,0 +1,4 @@
+1. Close out of WoW.
+2. Locate your GTFO sounds folder (**\World of Warcraft\_retail_\Interface\AddOns\GTFO\Sounds)
+3. OPTIONAL STEP BACK UP ORIGINAL SOUNDS - Create a new folder called 'OriginalSounds' CUT and paste the existing sound files into it
+4. Copy the contents of .zip file into the GTFO sounds folder (Replace Files if 3. skipped)
